@@ -10,7 +10,7 @@ I would recommend the latest (currently Windows 11 24H2) but it requires some be
 
 Technically yes, but only useless features that may consume some CPU delta cycles and/or memory usage.
 
-### Part 1: Services
+### Services
 
 Services (Win + R -> services.msc) can play a huge role when it comes to performance, especially if your system is a low-end and even mid-end in some cases. It is important to note that there's a lot of misinformation spread all around the internet, though. Less experienced users might think that disabling a whole bunch of services will make any difference and they end up messing with the system. The truth is that it's not exactly about disabling anything that you won't use, but disabling services that are consuming a bunch of CPU cycles delta. 
 
@@ -23,7 +23,7 @@ We can define cycles delta as a metric for how many cycles X process is using in
 
 Yeah. That's the list. It's crazy isn't it? Most "tweakers" would get rid of a bunch of services that are not even taking up resources, possibly causing issues. 
 
-### Part 2: Device Manager 
+### Device Manager 
 
 Disabling devices (Win + R -> devmgmt.msc) won't really boost the machine's performance by much, but it can definitely help make your experience smoother. Here's the list of devices you can disable in order to improve your responsiveness:
 
@@ -46,7 +46,7 @@ System devices:
 - Terminal Server Mouse/Keyboard drivers
 - UMBus
 
-### Part 3: Optional Features
+### Optional Features
 
 These are not really important, but if you're fresh like me you might want to clean it. In order to get in there, press Win + R and type "optionalfeatures". If it's correctly written it should open a tab. Some features there are worth keeping, but I also made a list of unnecessary ones:
 
