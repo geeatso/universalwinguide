@@ -89,7 +89,7 @@ Make sure to set the value as decimal, not hexadecimal.
 
 ### Specific Tweaks for Minecraft
 
-Since the base game is not optimized at all, it's necessary to use some mods in order to improve performance and overrall experience. I've been using Fabric for 3 years so I cannot guarantee these mods will be available for Forge. Here's the list containing every optimization mod I use (1.21):
+Since the base game is not optimized at all, it's necessary to use some mods in order to improve performance and overall experience. I've been using Fabric for 3 years so I cannot guarantee these mods will be available for Forge. Here's the list containing every optimization mod I use (1.21):
 
 - Sodium
 - Indium
