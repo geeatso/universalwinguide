@@ -110,7 +110,30 @@ Since the base game is not optimized at all, it's necessary to use some mods in 
 - Video Tape
 - Faster Random
 
+### Chris Titus Tool (credits below)
 
+This is an awesome and very easy to use tool created by [Chris Titus Tech](https://www.youtube.com/@ChrisTitusTech) and his community. All you need to do is open Powershell as administrator and type the following command: irm christitus.com/win | iex
+
+If this is your first time using this tool then it might take a while to load as it installs chocolatey. There's a lot you can tweak there but I'll focus on what's actually important. Go to "Tweaks" tab and check the following: 
+
+- Delete Temporary Files
+- Disable Consumer Features
+- Disable Telemetry
+- Disable Activity History
+- Disable GameDVR (this will break Game Bar)
+- Disable Location Tracking
+- Disable Storage Sense
+- Disable Wifi-Sense
+- Run Disk Cleanup
+- Disable POwershell 7 Telemetry
+- Set Services to Manual
+- Debloat Edge
+- Disable IPV6 (if you don't use it)
+- Disable Teredo (might be essential for some titles like Forza Horizon and Minecraft Bedrock)
+- Disable Background Apps
+- Disable Microsoft Copilot (if you don't use it)
+
+Hit "Run Tweaks" and wait for it to finish. After this step, I'd recommend running O&O Shutup. It's located in the bottom of "Tweaks". Just hit "Run OO Shutup 10" and you're done.  
 
 
 
