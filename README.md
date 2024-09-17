@@ -108,7 +108,7 @@ Since the base game is not optimized at all, it's necessary to use some mods in 
 - Fast Paintings
 - Entity View Distance
 - Video Tape
-- Faster Random 
+- Faster Random
 
 
 
