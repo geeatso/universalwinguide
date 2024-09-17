@@ -125,7 +125,7 @@ If this is your first time using this tool then it might take a while to load as
 - Disable Storage Sense
 - Disable Wifi-Sense
 - Run Disk Cleanup
-- Disable POwershell 7 Telemetry
+- Disable Powershell 7 Telemetry
 - Set Services to Manual
 - Debloat Edge
 - Disable IPV6 (if you don't use it)
